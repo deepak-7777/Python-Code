@@ -12,10 +12,6 @@ The purpose of this project is to strengthen my understanding of Python by imple
 
 ## 🚀 Topics Covered
 
-* Variables & Data Types
-* Conditional Statements
-* Loops
-* Functions
 * File Handling
 * Object-Oriented Programming (OOP)
 
