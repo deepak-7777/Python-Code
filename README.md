@@ -1,4 +1,4 @@
-# 📂 Python Practice Project
+# 📂 Python Practice Project 
  
 This repository contains my practice work created while learning **Python programming**. It includes various programs and implementations covering core Python concepts, Object-Oriented Programming (OOP), and basic library usage.
 
